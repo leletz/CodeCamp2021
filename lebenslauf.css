@@ -1,0 +1,16 @@
+.jahrtabelle {
+    vertical-align: middle;
+}
+.greyback {
+    background-color: rgb(218, 214, 214);
+}
+.lightgreyback {
+    background-color: rgb(231, 228, 228);
+}
+.lightergreyback {
+    background-color: rgb(243, 240, 240);
+    padding: 5px;
+}
+section{
+    padding: 10px
+}
